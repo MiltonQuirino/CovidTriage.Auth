@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.809.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CovidTriage.Auth", "CovidTriage.Auth\CovidTriage.Auth.csproj", "{1F33C934-A49F-4DC9-8E76-6555F874DA4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F33C934-A49F-4DC9-8E76-6555F874DA4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F33C934-A49F-4DC9-8E76-6555F874DA4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F33C934-A49F-4DC9-8E76-6555F874DA4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F33C934-A49F-4DC9-8E76-6555F874DA4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B1CAF24-C990-423B-BAD5-7E66933A34E8}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{1F33C934-A49F-4DC9-8E76-6555F874DA4E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CovidTriage.Auth/Controllers/WeatherForecastController.cs">
+    <Files>
+      <File FileName="CovidTriage.Auth/Dockerfile" Line="16" Column="1" />
+      <File FileName="CovidTriage.Auth/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="CovidTriage.Auth/Startup.cs" Line="51" Column="1" />
+      <File FileName="CovidTriage.Auth/Controllers/WeatherForecastController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CovidTriage" expanded="True">
+            <Node name="CovidTriage.Auth" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="WeatherForecastController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CovidTriage.Auth PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

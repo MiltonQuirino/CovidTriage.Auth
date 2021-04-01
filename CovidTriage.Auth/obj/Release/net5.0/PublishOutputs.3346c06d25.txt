@@ -1,0 +1,10 @@
+/Users/miltonquirino/git/altran/CovidTriage/CovidTriage.Auth/bin/Release/net5.0/publish/appsettings.Development.json
+/Users/miltonquirino/git/altran/CovidTriage/CovidTriage.Auth/bin/Release/net5.0/publish/appsettings.json
+/Users/miltonquirino/git/altran/CovidTriage/CovidTriage.Auth/bin/Release/net5.0/publish/CovidTriage.Auth.dll
+/Users/miltonquirino/git/altran/CovidTriage/CovidTriage.Auth/bin/Release/net5.0/publish/CovidTriage.Auth.deps.json
+/Users/miltonquirino/git/altran/CovidTriage/CovidTriage.Auth/bin/Release/net5.0/publish/CovidTriage.Auth.runtimeconfig.json
+/Users/miltonquirino/git/altran/CovidTriage/CovidTriage.Auth/bin/Release/net5.0/publish/CovidTriage.Auth.pdb
+/Users/miltonquirino/git/altran/CovidTriage/CovidTriage.Auth/bin/Release/net5.0/publish/Microsoft.OpenApi.dll
+/Users/miltonquirino/git/altran/CovidTriage/CovidTriage.Auth/bin/Release/net5.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/miltonquirino/git/altran/CovidTriage/CovidTriage.Auth/bin/Release/net5.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/miltonquirino/git/altran/CovidTriage/CovidTriage.Auth/bin/Release/net5.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll

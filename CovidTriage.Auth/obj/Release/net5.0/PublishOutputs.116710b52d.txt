@@ -1,0 +1,10 @@
+/Users/miltonquirino/Desktop/publish/appsettings.Development.json
+/Users/miltonquirino/Desktop/publish/appsettings.json
+/Users/miltonquirino/Desktop/publish/CovidTriage.Auth.dll
+/Users/miltonquirino/Desktop/publish/CovidTriage.Auth.deps.json
+/Users/miltonquirino/Desktop/publish/CovidTriage.Auth.runtimeconfig.json
+/Users/miltonquirino/Desktop/publish/CovidTriage.Auth.pdb
+/Users/miltonquirino/Desktop/publish/Microsoft.OpenApi.dll
+/Users/miltonquirino/Desktop/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/miltonquirino/Desktop/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/miltonquirino/Desktop/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
